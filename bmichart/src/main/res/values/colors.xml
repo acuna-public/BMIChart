@@ -1,0 +1,14 @@
+<resources>
+	
+	<string-array name="colors">
+		
+		<item>#B0D3CD</item>
+		<item>#4C6C93</item>
+		<item>#76DC79</item>
+		<item>#DDE686</item>
+		<item>#FDB547</item>
+		<item>#EA444E</item>
+		
+	</string-array>
+	
+</resources>
